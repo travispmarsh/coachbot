@@ -1,5 +1,6 @@
 [
-  "hubot-diagnostics",
+  "hubot-heroku-keepalive",
+    "hubot-diagnostics",
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-google-images",
